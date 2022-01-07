@@ -4,7 +4,7 @@ The programs use `nltk` to cluster user stories based on the meaning and part of
 
 Time: 2020 Spring
 
-input: a text file containing user stories
+input: a text file containing user stories  
 output: a text file containing user stories that have been clustered
 
 `2.py` and `3.py` can manually check the correctness of clustering.
